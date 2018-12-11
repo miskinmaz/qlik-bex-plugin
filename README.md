@@ -1,6 +1,5 @@
 # Qlik BEx Plugin
 [![Qlik BEx Plugin in Action](https://raw.githubusercontent.com/rileymd88/data/master/qlik-bex-plugin/BEx8.png)](https://www.youtube.com/watch?v=7nsVEGci1c0)
-![BEX8](https://raw.githubusercontent.com/rileymd88/data/master/qlik-bex-plugin/BEx8.png)
 ## The Solution
 The Qlik BEx Plugin is an add on to the Qlik Visual Anlaytics Platform and brings Governed Self Service within SAP BI environments to the next level.
 * It provides an easy way to access data for SAP Bex Users
