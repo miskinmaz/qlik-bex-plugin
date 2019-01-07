@@ -45,7 +45,7 @@ The Qlik BEx Plugin has been tested within the following setups
     b. don't forget to apply a valid license
 3. Create a data connection for the Qlik SAP BAPI and the Qlik SAP BEx connector
 4. Import the metadata App found [here](https://github.com/rileymd88/data/raw/master/qlik-bex-plugin/Qlik%20BEx%20Plugin%20-%20Metadata%20App.qvf)
-5. Import the Qlik BEx Plugin Extension found here
+5. Import the Qlik BEx Plugin Extension found [here](https://github.com/QlikPreSalesDACH/qlik-bex-plugin/archive/0.0.1.zip)
 
 ## Metadata App
 *Important Note:*
